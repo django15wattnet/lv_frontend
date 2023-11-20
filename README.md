@@ -18,6 +18,9 @@
 - Eine produktive Verwendung und Konfiguration von npm, vite, … (npm run build)
 - Die Dokumentation meiner Entwicklungsschritte durch die Verwendung von git-Commits
 
+## .env
+Die `.env` benötigt den Key `ARTICLE_API_HOST` mit dem Hostnamen des API-Backends.\
+Z.B.: `ARTICLE_API_HOST = "http://192.168.0.149:8081/"`
 
 ## Gedanken
 ### Laravel
