@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+header {
+    border-bottom: 1px solid #ccc;
+}
+
+.content {
+    border-bottom: 1px solid #ccc;
+}
+
+.content main h1 {
+    font-size: 150%;
+    margin-bottom: 0.5rem;
+    line-height: normal;
+}
+
+.content main a {
+    text-decoration: none;
+}
+
+.content main a span {
+    text-decoration: underline;
+    margin-left: 0.25rem;
+}

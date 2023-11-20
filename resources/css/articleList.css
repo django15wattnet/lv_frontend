@@ -1,0 +1,44 @@
+/*
+    Styles für die Artikel-Liste
+ */
+.listArticleOuter ul {
+    list-style-type: disc;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.listArticleOuter ul li {
+    margin-bottom: 0.5rem;
+}
+
+.listArticleOuter ul li a {
+    text-decoration: underline;
+}
+
+.listArticleOuter ul li a:hover {
+    background-color: #cccccc;
+}
+
+.listArticleOuter .pagination button {
+    border: 1px solid #cccccc;
+    border-radius: 0.25rem;
+    padding: 0 0.5rem 0 0.5rem;
+}
+
+.listArticleOuter .pagination button[data-url=""] {
+    visibility: hidden;
+}
+
+@media (hover: hover) and (pointer: fine) {
+    .listArticleOuter .pagination button:hover {
+        background-color: #cccccc;
+    }
+}
+
+.listArticleOuter .pagination button.btnPrevPage {
+    margin-right: 1.5rem;
+}
+
+.listArticleOuter .pagination button.btnNextPage {
+    margin-left: 1.5rem;
+}
