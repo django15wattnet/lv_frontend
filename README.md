@@ -34,5 +34,5 @@ Ansonsten, eine solide Template-Engine.
 ### Zeit
 10 Stunden, einige neue, coole und sinnvolle Tools und Frameworks.\
 Meine Herausforderung war die Einarbeitung in die, mir unbekannten Frameworks, nicht die Umsetzung der gestellten Aufgabe. \
-Ihr/Sie habt/haben eine sehr sinnvolle Auswahl der Tools getroffen 🙂. \
+Ihr habt eine sehr sinnvolle Auswahl der Tools getroffen 🙂. \
 Da möchte ich sehr gerne mitmachen.
